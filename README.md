@@ -1,2 +1,2 @@
-# Perplexify
+# Prosperify
 financial tool
